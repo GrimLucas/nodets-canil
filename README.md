@@ -5,7 +5,7 @@ Projeto para fins didáticos ---- Node + Typescript
 `npm i -g typescript ts-node`
 
 ### instalação:
-`npm install`
+`npm install` 
 
 ### Para rodar o projeto:
 `npm rum start-dev`
